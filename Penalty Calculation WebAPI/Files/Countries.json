@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "Name": "Egypt",
+    "PricePerDay": 5,
+    "OffDays": [ 5, 6 ],
+    "Curreny": "Pound"
+  },
+  {
+    "id": 2,
+    "Name": "Emirates",
+    "PricePerDay": 2,
+    "OffDays": [ 5, 6 ],
+    "Curreny": "AED"
+  },
+  {
+    "id": 3,
+    "Name": "USA",
+    "PricePerDay": 3,
+    "OffDays": [ 6, 0 ],
+    "Curreny": "Dollar"
+  }
+]

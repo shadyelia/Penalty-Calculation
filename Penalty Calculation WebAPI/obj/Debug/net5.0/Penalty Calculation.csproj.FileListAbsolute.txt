@@ -1,0 +1,74 @@
+E:\work\Penalty Calculation\bin\Debug\net5.0\appsettings.Development.json
+E:\work\Penalty Calculation\bin\Debug\net5.0\appsettings.json
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.exe
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.deps.json
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.runtimeconfig.json
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.runtimeconfig.dev.json
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\ref\Penalty Calculation.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Penalty Calculation.pdb
+E:\work\Penalty Calculation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.csproj.AssemblyReference.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.AssemblyInfoInputs.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.AssemblyInfo.cs
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.csproj.CoreCompileInputs.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.MvcApplicationPartsAssemblyInfo.cs
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.MvcApplicationPartsAssemblyInfo.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\staticwebassets\Penalty Calculation.StaticWebAssets.Manifest.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\staticwebassets\Penalty Calculation.StaticWebAssets.xml
+E:\work\Penalty Calculation\obj\Debug\net5.0\scopedcss\bundle\Penalty Calculation.styles.css
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.RazorTargetAssemblyInfo.cache
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.csproj.CopyComplete
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.dll
+E:\work\Penalty Calculation\obj\Debug\net5.0\ref\Penalty Calculation.dll
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.pdb
+E:\work\Penalty Calculation\obj\Debug\net5.0\Penalty Calculation.genruntimeconfig.cache
+E:\work\Penalty Calculation\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Application.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Data.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\DataAccess.dll
+E:\work\Penalty Calculation\bin\Debug\net5.0\Application.pdb
+E:\work\Penalty Calculation\bin\Debug\net5.0\DataAccess.pdb
+E:\work\Penalty Calculation\bin\Debug\net5.0\Data.pdb
+E:\work\Penalty Calculation\bin\Debug\net5.0\Files\Countries.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\appsettings.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Files\Countries.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.exe
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.deps.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.runtimeconfig.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.runtimeconfig.dev.json
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\ref\Penalty Calculation.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Penalty Calculation.pdb
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Application.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Data.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\DataAccess.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Application.pdb
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\DataAccess.pdb
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\bin\Debug\net5.0\Data.pdb
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.csproj.AssemblyReference.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.AssemblyInfoInputs.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.AssemblyInfo.cs
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.csproj.CoreCompileInputs.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.MvcApplicationPartsAssemblyInfo.cs
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.MvcApplicationPartsAssemblyInfo.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\staticwebassets\Penalty Calculation.StaticWebAssets.Manifest.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\staticwebassets\Penalty Calculation.StaticWebAssets.xml
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\scopedcss\bundle\Penalty Calculation.styles.css
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.RazorTargetAssemblyInfo.cache
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.csproj.CopyComplete
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\ref\Penalty Calculation.dll
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.pdb
+E:\work\Penalty Calculation\Penalty Calculation WebAPI\obj\Debug\net5.0\Penalty Calculation.genruntimeconfig.cache

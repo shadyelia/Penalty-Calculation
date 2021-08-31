@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "evwY2PPu4jo/D4WLiK77MgZhvVJLwmhLbD93ULLjVfS8AaXe4Sdvve0Qc+Yv51o/QB1jBRt3a8IDdigXda4RNw==",
+  "success": true,
+  "projectFilePath": "E:\\work\\Penalty Calculation\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shady\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
